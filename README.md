@@ -263,6 +263,5 @@ Possible extensions include:
 ## Author
 
 Mehul Bandhu  
-Student ID: s2500976  
 
 Computer Simulation Project
