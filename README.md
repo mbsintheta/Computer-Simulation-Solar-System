@@ -1,4 +1,9 @@
 # Computer Simulation Project
+
+**Project Report:**  
+[Click here to view the PDF report](Simulation_Report.pdf)
+
+---
 ## Overview
 
 This project simulates the motion of planets in a solar system using numerical integration methods. It calculates orbital motion, tracks energy conservation, detects orbital periods, and analyses the effect of timestep size on simulation accuracy.
