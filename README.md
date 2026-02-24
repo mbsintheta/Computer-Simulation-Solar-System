@@ -1,7 +1,7 @@
 # Computer Simulation Project
 
 **Project Report:**  
-[Click here to view the PDF report](Simulation_Report.pdf)
+[Click here to view the PDF report](Computer_Simulation_Project_Report.pdf)
 
 ---
 ## Overview
